@@ -1,4 +1,4 @@
-# Quiz 5 - Intro to MapReduce
+# Quiz 5 - Intro to Hadoop
 
 ### 1. What does IaaS provide?
 
