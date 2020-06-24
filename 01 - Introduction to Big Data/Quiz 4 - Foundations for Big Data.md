@@ -13,7 +13,7 @@
 - Prevents network connection failure
 - Much faster than a traditional super computer
 - Prevents individual component failures
-- **Enables fault tolerance****
+- **Cost Effective**
 
 ### 3. What is a way to enable fault tolerance?
 
